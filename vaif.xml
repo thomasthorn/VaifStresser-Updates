@@ -2,6 +2,6 @@
 <item>
     <version>1.0.0.1</version>
     <url>https://bitbucket.org/vAIF/vaif-stresser-update-files/raw/fbe2707b5d44e4f1638d9bf8b2ee3e1fee4fd619/vaifstresser.zip</url>
-    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+    <changelog>https://raw.githubusercontent.com/vaifaio/VaifStresser-Updates/master/ReleaseNotes</changelog>
     <mandatory mode="2">true</mandatory>
 </item>
