@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<version>1.1.0.0</version>
-<url>https://bitbucket.org/vAIF/vaif-stresser-update-files/raw/9b1fe8fb4be5390a4aacc9bafc8fd18adfe6ccb9/v1.1.0.zip</url>
-<changelog>
-https://raw.githubusercontent.com/vaifaio/VaifStresser-Updates/master/ReleaseNotes
-</changelog>
+    <version>1.1.0.0</version>
+    <url>https://github.com/vAIFDev/VaifStresser/releases/download/v1.1.0/VaifStresser-1.1.0.zip</url>
+    <changelog>https://github.com/vAIFDev/VaifStresser/releases</changelog>
+    <mandatory mode="2">true</mandatory>
 </item>
